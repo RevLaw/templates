@@ -89,37 +89,6 @@
           "display": "Yes"
         }
       ]
-    },
-    "ftport": {
-      "type": "integer",
-      "desc": "What Port do you want your file transfer server to run on?",
-      "display": "Port Number",
-      "value": "30033"
-    },
-    "ip": {
-      "type": "string",
-      "desc": "What IP do you want your voice server to run on?",
-      "display": "IP Address",
-      "value": "0.0.0.0"
-    },
-    "qport": {
-      "type": "string",
-      "desc": "What Port do you want your query server to run on?",
-      "display": "Port Number",
-      "value": "10011"
-    },
-    "version": {
-      "type": "string",
-      "desc": "What version of Teamspeak do you want to use?",
-      "display": "Version",
-      "required": true,
-      "value": "3.13.6"
-    },
-    "vport": {
-      "type": "integer",
-      "desc": "What Port do you want your voice server to run on?",
-      "display": "Port Number",
-      "value": "9987"
     }
   },
   "environment": {
